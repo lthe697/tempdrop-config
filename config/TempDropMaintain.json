@@ -1,6 +1,6 @@
 {
   "inMaintenance": false,
-  "disableApi": false,
+  "disableApi": true,
   "title": "系统维护通知",
   "message": "服务器正在进行例行维护，预计恢复时间为 18:00。如有疑问请加入官方QQ群反馈。",
   "showDismissBtn": true,
