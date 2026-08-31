@@ -1,4 +1,3 @@
-<!--UPDATE_START-->
 {
   "versionCode": 101,
   "versionName": "1.0.2",
@@ -9,4 +8,3 @@
   "passCode": "",
   "updateLog": "1. 新增版本更新检测功能_22_2. 修复收件箱详情文本框选与滚动问题_22_3. 优化历史记录切换性能"
 }
-<!--UPDATE_END-->
