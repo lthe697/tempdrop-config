@@ -1,13 +1,10 @@
 {
-  "enable": true,
-  "noticeId": 1001,
-  "title": "临时公告",
-  "content": "欢迎使用 TempDrop！目前系统运行正常。如果有任何问题或建议，欢迎反馈。",
-  "type": "dialog",
-  "cancelable": true,
-  "confirmText": "我知道了",
-  "cancelText": "取消",
-  "linkUrl": "",
-  "minAppVersionCode": 1,
-  "maxAppVersionCode": 9999
+  "enabled": false,
+  "title": "官方公告",
+  "content": "感谢大家支持 TempDrop！如果觉得好用可以赞助我们。",
+  "showSponsorBtn": true,
+  "sponsorUrl": "https://afdian.com",
+  "showGroupBtn": false,
+  "qqGroupNum": "123456789",
+  "showDismissTodayBtn": false
 }
