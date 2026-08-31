@@ -2,9 +2,9 @@
   "versionCode": 101,
   "versionName": "1.0.2",
   "updateTime": "2026-08-25 15:00",
-  "cancelable": true,
+  "cancelable": false,
   "isDirect": true,
   "downloadUrl": "https://dl-e.feejii.com/storage/files/2026/08/25/1/5105355451/1787661182471392.gz?t=6a8d9bae&rlimit=20&us=f18COwntaM&sign=19421c3854fa1b04ad0c54aede0c84ae&download_name=TempDrop_1.0.1.apk&p=null-10385208-57246379186",
   "passCode": "",
-  "updateLog": "1. 新增版本更新检测功能_22_2. 修复收件箱详情文本框选与滚动问题_22_3. 优化历史记录切换性能"
+  "updateLog": "增加一堆功能 \nUI重构"
 }
