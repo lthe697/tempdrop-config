@@ -1,10 +1,10 @@
 {
-  "enabled": false,
-  "title": "官方公告",
-  "content": "感谢大家支持 TempDrop！如果觉得好用可以赞助我们。",
+  "enabled": true,
+  "title": "欢迎使用临时邮箱",
+  "content": "感谢您的使用！本工具完全免费，如果您觉得好用，可以点击下方按钮加入官方交流群或赞助支持我们。",
   "showSponsorBtn": true,
-  "sponsorUrl": "https://afdian.com",
-  "showGroupBtn": false,
-  "qqGroupNum": "123456789",
-  "showDismissTodayBtn": false
+  "sponsorUrl": "https://www.ifdian.net/a/TempDrop65",
+  "showGroupBtn": true,
+  "qqGroupNum": "1029737623",
+  "showDismissTodayBtn": true
 }
