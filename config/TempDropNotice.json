@@ -1,0 +1,13 @@
+{
+  "enable": true,
+  "noticeId": 1001,
+  "title": "临时公告",
+  "content": "欢迎使用 TempDrop！目前系统运行正常。如果有任何问题或建议，欢迎反馈。",
+  "type": "dialog",
+  "cancelable": true,
+  "confirmText": "我知道了",
+  "cancelText": "取消",
+  "linkUrl": "",
+  "minAppVersionCode": 1,
+  "maxAppVersionCode": 9999
+}
