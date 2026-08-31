@@ -1,4 +1,3 @@
-<!--CONFIG_START-->
 {
   "enableCustomApi": false,
   "baseUrl": "https://api.new-domain.com/v1/",
@@ -8,4 +7,3 @@
     "X-Client-Platform": "Android"
   }
 }
-<!--CONFIG_END-->
