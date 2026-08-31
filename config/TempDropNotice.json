@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "title": "官方公告",
   "content": "感谢大家支持 TempDrop！如果觉得好用可以赞助我们。",
   "showSponsorBtn": true,
