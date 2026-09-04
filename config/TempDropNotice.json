@@ -4,7 +4,7 @@
   "content": "感谢您的使用！本工具完全免费，如果您觉得好用，可以点击下方按钮加入官方交流群或赞助支持我们。",
   "showSponsorBtn": true,
   "sponsorUrl": "https://www.ifdian.net/a/TempDrop65",
-  "showGroupBtn": false,
+  "showGroupBtn": true,
   "qqGroupNum": "1029737623",
   "showDismissTodayBtn": false
 }
