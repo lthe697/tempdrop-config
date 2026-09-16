@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "release_channel": "stable",
-  "latest_version_code": 2,
+  "latest_version_code": 1,
   "latest_version_name": "2.0.0-release",
   "build_date": "2026.09.28",
   "released_at": "2026-09-28T10:00:00+08:00",
