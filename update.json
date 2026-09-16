@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "release_channel": "stable",
+  "latest_version_code": 2,
+  "latest_version_name": "2.0.0-release",
+  "build_date": "2026.09.28",
+  "released_at": "2026-09-28T10:00:00+08:00",
+  "download_size_mb": 38.4,
+  "download_url": "https://cdn.example.com/yupatch/yupatch-2.0.0.apk",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "force_update": true,
+  "min_supported_version_code": 1,
+  "title": "系统更新可用",
+  "termination_notice": "当前版本协议已废弃，需完成更新后方可继续访问核心解析服务。",
+  "changelog": [
+    "新增独立过签原生补丁注入引擎 (v2.1 原生修复内核)",
+    "优化加固方案解包与 DEX 符号表重构速度 (+40%)",
+    "修复 Android 15 下 SVC 深度 Hook 的偶发兼容性异常",
+    "强化 V1/V2/V3 全链路 APK 签名完整性防伪校验"
+  ]
+}
